@@ -1,4 +1,4 @@
-<img width="1269" height="1240" alt="image" src="https://github.com/user-attachments/assets/23418aad-1665-4149-adb1-f3090393811c" /># Ex.No.1 COMPREHENSIVE REPORT ON THE FUNDAMENTALS OF GENERATIVE AI AND LARGE LANGUAGE MODELS (LLMS)
+# Ex.No.1 COMPREHENSIVE REPORT ON THE FUNDAMENTALS OF GENERATIVE AI AND LARGE LANGUAGE MODELS (LLMS)
 
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
